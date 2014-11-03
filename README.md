@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8" />
-	<title>Title of the document</title>
+	<title>JohnBaskerville</title>
 </head>
 <body>
 <article>
