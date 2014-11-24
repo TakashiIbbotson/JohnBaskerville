@@ -29,7 +29,7 @@ nav {border-top: 1px solid #ccc; border-bottom: 1px solid #ccc;}
 </head>
 <body>
 <article>
-<header><H1><center><br>John Baskerville<br></center></H1></header>
+<header><H1><center>John Baskerville<br></center></H1></header>
 
 <section><H3 class="subtitle"><center>Letter Founder & Master Printer</center></H3>
 <nr>
